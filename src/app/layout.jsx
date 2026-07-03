@@ -10,6 +10,7 @@ const chivo = Chivo({
 export const metadata = {
      title: "TeamSemiDark",
      description: "Web Today, AI Tomorrow",
+     icons: { icon: "/src/assests/teamsemidark.webp" },
 };
 
 export default function RootLayout({ children }) {
